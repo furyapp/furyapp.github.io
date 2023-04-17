@@ -77,9 +77,9 @@
     "UserCountry": "null",
     "UserState": "null",
     "UserCity": "null",
-    "Screen1": "0",
-    "Screen2": "0",
-    "Screen3": "0"
+    "Screen1": "1",
+    "Screen2": "1",
+    "Screen3": "1"
   },
   "PLACEMENT": {
     "Admob": {
