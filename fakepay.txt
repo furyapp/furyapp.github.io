@@ -50,7 +50,7 @@
     "PrivacyPolicyScreen": "0",
     "ExitDialog": "1",
     "RateDialog": "0",
-    "ExitScreen": "1",
+    "ExitScreen": "0",
     "BigNativeBlink": "0",
     "SmallNativeBlink": "0",
     "Game": "0",
