@@ -80,7 +80,7 @@
     "Screen1": "1",
     "Screen2": "1",
     "Screen3": "1",
-    "StepsActivity": "1"",
+    "StepsActivity": "1",
     "IntroActivity": "1"
   },
   "PLACEMENT": {
